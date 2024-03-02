@@ -9,16 +9,12 @@ function Loged(){
     return(
     <>
     <div>
-     
-          
-            <h2>Login Successfully</h2>
-
-           
-                    <button  className="button btn btn-success  btn-lg btn-block"
+      <h2>Login Successfully</h2>
+            <button  className="button btn btn-success  btn-lg btn-block"
                     onClick={() =>navigate(-1)}
                     >Go to Home Page</button>
                   
-                    </div>
+                    </div>im
                     </>
     );
 }

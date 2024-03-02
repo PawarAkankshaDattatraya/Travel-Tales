@@ -63,37 +63,9 @@ export default function About() {
 
             <h1 className=" description heading">Our Team's</h1>
             <div className="about-main-container">
-                <div className="cards">
-                    <img src={image1} className="image team-member-img" />
-                    <hr></hr>
-                    <div className="info">
+                
 
-                        <p className="about-user-name">Shanzey Shaikh</p>
-                        <p className="about-user-info">Parikrama College of Engineering ,Kashti.
-                        </p>
-                    </div>
-                </div>
-
-                <div className="cards">
-                    <img src={image2} className="team-member-img image" />
-                    <hr></hr>
-                    <div className="info">
-                    <p className="about-user-name">Prerna Barde</p>
-                        <p className="about-user-info">Sadabai Raisoni Women's College, Nagpur.
-                        </p>
-
-                    </div>
-                </div>
-
-                <div className="cards">
-                    <img src={image3} className="team-member-img image img3" />
-                    <hr></hr>
-                    <div className="info">
-                    <p className="about-user-name">Snehal Parate</p>
-                        <p className="about-user-info"> G.H Raisoni University, Amravati.
-                        </p>
-                    </div>
-                </div>
+               
             </div>
 
             <div className="about-main-container">
@@ -108,36 +80,11 @@ export default function About() {
                     </div>
                 </div>
 
-                <div className="cards">
-                    <img src={image5} className="team-member-img image" />
-                    <hr></hr>
-                    <div className="info">
-                    <p className="about-user-name">Jayant Sarve</p>
-                        <p className="about-user-info"> G.H Raisoni University, Amravati.
-                        </p>
-                    </div>
-                </div>
+                
 
-                <div className="cards">
-                    <img src={image6} className="team-member-img image" />
-                    <hr></hr>
-                    <div className="info">
-                    <p className="about-user-name">Shirish meshram</p>
-                        <p className="about-user-info"> G.H Raisoni University, Amravati.
-                        </p>
-      
-                    </div>
-                </div>
-                <div className="cards">
-                    <img src={image7} className="team-member-img image" />
-                    <hr></hr>
-                    <div className="info">
-                    <p className="about-user-name">Yash Chaudhari</p>
-                        <p className="about-user-info"> G.H Raisoni University, Amravati.
-                        </p>
-                 
-                    </div>
-                </div>
+
+                
+            
             </div>
 
             <Footer />
